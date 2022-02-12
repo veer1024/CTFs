@@ -6,4 +6,4 @@ This Repo Contain different CTFs created by me.
 <b>Challange URL: https://vulnerable-webapp-codastic.herokuapp.com/</b><br>
 <b> Task </b>: Bypass the login Functionality, and get into the admin account<br>
 <b> Walkthrough </b>: https://youtu.be/d_E3B4ScX5Y <br> 
-<b>other credits</b>: for the login form, credit goes to @Mehedi61, for his awesome login repo https://github.com/Mehedi61/Login-Signup-form <br>
+<b>other credits</b>: for the login form, credit goes to @sefyudem, for his awesome login repo https://github.com/sefyudem/Responsive-Login-Form <br>
