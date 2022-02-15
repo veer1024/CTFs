@@ -96,6 +96,14 @@ conculde each value using ipython3 and can predict the dynamic part</p>
   ![](5th.png)
   
   <h3><b>Decrypting Dynamic Part</b></h3>
-  <b>Note</b> in function check_key , 2nd argument is bUsername_trial, which is named as username_trial within the function, in ipython3 I am taking bUsername_trial , so don't get confuse of it.
- ![](6th.png)
+  <b>Note</b> in function check_key , 2nd argument is bUsername_trial, which is named as username_trial within the function, in ipython3 I am taking 
+   bUsername_trial , so don't get confuse of it.
+ 
+ 
+  ![](6th.png)
+    
+    <h3> So our final flag is <b>picoCTF{1n_7h3_|<3y_of_e584b363}</b></h3>
+    I also write an script to automatically exploit this, check https://github.com/veer1024/CTFs/blob/main/PICOCTF/Reversing/keygenme-py/keygenme-trial-sol.py
+        
+        <h1> <b> Thank You</b> </h1>
                                                                                                               
