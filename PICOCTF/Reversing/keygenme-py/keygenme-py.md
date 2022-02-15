@@ -108,10 +108,8 @@ conculde each value using ipython3 and can predict the dynamic part</p>
  
  
   ![](6th.png)
-    
-    <h3> So our final flag is <b>picoCTF{1n_7h3_|<3y_of_e584b363}</b></h3>
-    
-    I also write an script to automatically exploit this, check :)
-    https://github.com/veer1024/CTFs/blob/main/PICOCTF/Reversing/keygenme-py/keygenme-trial-sol.py
-    <b> Thank You</b>
+  <h3>So our final flag is <b>picoCTF{1n_7h3_|<3y_of_e584b363}</b></h3><br>
+  I also write an script to automatically exploit this, check :)
+  https://github.com/veer1024/CTFs/blob/main/PICOCTF/Reversing/keygenme-py/keygenme-trial-sol.py <br>
+  <b> Thank You</b>
                                                                                                               
