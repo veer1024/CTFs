@@ -1,4 +1,3 @@
-This Repo Contain different CTFs created by me.
 <h1><centre>CTFs</centre></h1>
 
 <h2> CTF - Vulnerable </h2>
