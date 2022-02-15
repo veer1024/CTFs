@@ -81,17 +81,24 @@ def check_key(key, username_trial):
 ```
 if we look function check_key closely we can find some conditions :)
   - length of our input should be equal to <b>key_full_template_trial<b> length (flag)
-  - first part of our input should be equal to <b>key_part_static1_final</b> which is picoCTF{1n_7h3_|<3y_of_ .
+  - first part of our input should be equal to <b>key_part_static1_final</b> which is picoCTF{1n_7h3_|<3y_of_
+<br>                                                                                                          
 from above two points, it is clear we need to put the correct flag as a license key to get full version of aracane calculator.
                                                                                                               
 ![](4th.png)
 <p>This part is for checking that whether the second part of user input (corresponding to dynamic part of flag), is equal to this values or not, so we can just
 conculde each value using ipython3 and can predict the dynamic part</p>
-  > ipython3
-  > from cryptography.fernet import Fernet
-  > import base64
-  > username_trial = "SCHOFIELD"
-  >  bUsername_trial = b"SCHOFIELD"
+
+ > ipython3
+ 
+ > from cryptography.fernet import Fernet
+   
+ > import base64
+   
+ > username_trial = "SCHOFIELD"
+    
+ >  bUsername_trial = b"SCHOFIELD"
+    
   
   ![](5th.png)
   
@@ -103,7 +110,8 @@ conculde each value using ipython3 and can predict the dynamic part</p>
   ![](6th.png)
     
     <h3> So our final flag is <b>picoCTF{1n_7h3_|<3y_of_e584b363}</b></h3>
-    I also write an script to automatically exploit this, check https://github.com/veer1024/CTFs/blob/main/PICOCTF/Reversing/keygenme-py/keygenme-trial-sol.py
-        
-        <h1> <b> Thank You</b> </h1>
+    
+    I also write an script to automatically exploit this, check :)
+    https://github.com/veer1024/CTFs/blob/main/PICOCTF/Reversing/keygenme-py/keygenme-trial-sol.py
+    <b> Thank You</b>
                                                                                                               
