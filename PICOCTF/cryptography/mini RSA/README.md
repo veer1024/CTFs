@@ -1,6 +1,6 @@
 <h1><b>Mini RSA</b> PicoCTF writup</h1>
 <h2>Writup</h2>
-Video Writup: https://www.youtube.com/watch?v=1arJzf-zD_A <br>
+Video Writup: https://www.youtube.com/watch?v=Pw9W3HeNbBU <br>
 challange link: https://play.picoctf.org/practice/challenge/188?category=2&page=1 <br>
 points : 30
 
