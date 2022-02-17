@@ -30,6 +30,6 @@ for x in range(10000):
       print(str(x)+"trying")
 
 ```
-![](1st.png)
+![](1-photo.png)
 <br>
 <b> thank you</b>
