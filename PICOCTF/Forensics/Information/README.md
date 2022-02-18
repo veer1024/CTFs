@@ -20,7 +20,7 @@ the license key seems to be an base 64 encoded strings, so on decoding it
 
 ![](result.png)
 
-we have our flag : icoCTF{the_m3tadata_1s_modified}
+we have our flag : picoCTF{the_m3tadata_1s_modified}
 
 <br>
 <b> thank you </b>
