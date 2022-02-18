@@ -1,6 +1,6 @@
 <h1><b>Information</b> PicoCTF writup</h1>
 <h2>Writup</h2>
-Video Writup: Coming Soon <br>
+Video Writup: https://youtu.be/24KKBK9n_Hg <br>
 challange link: https://play.picoctf.org/practice/challenge/186?category=4&page=1 <br>
 points : 10
 
