@@ -1,6 +1,6 @@
 <h1><b>Mind your Ps and Qs</b> PicoCTF writup</h1>
 <h2>Writup</h2>
-Video Writup: Coming Soon..<br>
+Video Writup: https://youtu.be/U8BpfHCxV_w<br>
 challange link: https://play.picoctf.org/practice/challenge/162 <br>
 points : 30
 
