@@ -8,7 +8,7 @@ points : 10
 
 So we have an Image file cat.png
 
-![](cat.png)
+![](cat.jpg)
 
 on checking its metadata 
 
