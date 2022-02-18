@@ -1,6 +1,6 @@
 <h1><b>Matryoshka doll</b> PicoCTF writup</h1>
 <h2>Writup</h2>
-Video Writup: Coming Soon <br>
+Video Writup: https://youtu.be/HavhxkqfpMg <br>
 challange link: https://play.picoctf.org/practice/challenge/129?category=4&page=1 <br>
 points : 30
 
