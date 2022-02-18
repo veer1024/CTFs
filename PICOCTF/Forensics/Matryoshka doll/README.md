@@ -24,6 +24,7 @@ again we will have another image in base_images folder ,
 and so on images will come on extracting upto fourth image
 
 > binwalk -e 3_dolls.png
+
 > binwalk -e 4_dolls.png
 
 ![](2nd.png)
