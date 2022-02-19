@@ -3,7 +3,13 @@ This Repo Contain different CTFs created by me.
 
 <h2> CTF - Vulnerable </h2>
 <p><b>Description</b>: this challange is designed for Web App penetration testing workshop, conducted by Network and Security Department of Codastic Club NITM. </p>
-<b>Challange URL: https://vulnerable-webapp-codastic.herokuapp.com/</b><br>
-<b> Task </b>: Bypass the login Functionality, and get into the admin account<br>
-<b> Walkthrough </b>: https://youtu.be/d_E3B4ScX5Y <br> 
-<b>other credits</b>: for the login form, credit goes to @sefyudem, for his awesome login repo https://github.com/sefyudem/Responsive-Login-Form <br>
+<b>Challange URL: https://github.com/veer1024/CTFs/tree/main/MyCTFs/Web/vulnerable</b><br>
+
+<h2> CTF - Easy Buffer </h2>
+<p><b>Description</b>: user input bigger than buffer size, can overwrite the stack... </p>
+<b>Challange URL: https://github.com/veer1024/CTFs/tree/main/MyCTFs/Binary-Exploitation/easy-buffer</b><br>
+
+<h2> CTF - zip2john </h2>
+<p><b>Description</b>: what do you know about bruteforcing .... </p>
+<b>Challange URL: https://github.com/veer1024/CTFs/tree/main/MyCTFs/penetration%20and%20hacks/zip2john</b><br>
+
