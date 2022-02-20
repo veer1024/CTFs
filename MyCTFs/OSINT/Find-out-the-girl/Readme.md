@@ -3,7 +3,7 @@
 <h2> CTF - Find out the Girl </h2>
 <p><b>Description</b>: Can you find out my name? I am the only girl in the below image... </p>
 
-![](images-not-related-with-ctf/overflow.jpeg)
+![](meeraki.jpg)
 
 <b>Challange File URL: https://github.com/veer1024/CTFs/blob/main/MyCTFs/Binary-Exploitation/easy-buffer/program</b><br>
 <b> Task </b>: exploit the buffer overflow vulnerability, and get the flag.soucre code for the program is given.<br>
