@@ -23,12 +23,18 @@ follow the documentation: https://docs.docker.com/desktop/windows/install/
 
 > docker pull hackpeas/hackpeas-ssti-lab1
 
+![](image2.png)
+
 confirm that image is successfully pulled, with the following command
 
 > docker images
+
+![](image3.png)
 
 You can see the image hackpeas/hackpeas-ssti-lab1
 
 3 Running the image
 
 > docker run hackpeas/hackpeas-ssti-lab1
+
+![](image4.png)
