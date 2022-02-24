@@ -6,6 +6,7 @@
 
 <p><b>Description</b>: can't beleive this, jinja2 can be vulnerable... </p>
 <b> Task </b>:Get the remote code execution on machine, and extract the content of flag.txt, file present in the web directory<br>
+Reference : https://portswigger.net/research/server-side-template-injection
 <b> Walkthrough </b>: Coming Soon <br> 
 
 <h2> Environment Setup </h2>
@@ -38,3 +39,6 @@ You can see the image hackpeas/hackpeas-ssti-lab1
 > docker run hackpeas/hackpeas-ssti-lab1
 
 ![](image4.png)
+
+Now you can access the web application by visiting the url.
+Note: you can check the vulnerable source code in this repo, or by downloding the lab zip file.
