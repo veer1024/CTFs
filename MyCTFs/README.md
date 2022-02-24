@@ -13,3 +13,6 @@ This Repo Contain different CTFs created by me.
 <p><b>Description</b>: what do you know about bruteforcing .... </p>
 <b>Challange URL: https://github.com/veer1024/CTFs/tree/main/MyCTFs/penetration%20and%20hacks/zip2john</b><br>
 
+<h2> CTF - find out the girl </h2>
+<p><b>Description</b>: can't believe this, Jinja2 is vulnerable</p>
+<b>Challenge URL: https://github.com/veer1024/CTFs/tree/main/MyCTFs/OSINT/Find-out-the-girl</b><br>
