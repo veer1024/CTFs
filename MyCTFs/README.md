@@ -14,5 +14,9 @@ This Repo Contain different CTFs created by me.
 <b>Challange URL: https://github.com/veer1024/CTFs/tree/main/MyCTFs/penetration%20and%20hacks/zip2john</b><br>
 
 <h2> CTF - find out the girl </h2>
-<p><b>Description</b>: can't believe this, Jinja2 is vulnerable</p>
+<p><b>Description</b>: Can you find out my name? I am the only girl in the below image...</p>
 <b>Challenge URL: https://github.com/veer1024/CTFs/tree/main/MyCTFs/OSINT/Find-out-the-girl</b><br>
+
+<h2> CTF - temper the flask </h2>
+<p><b>Description</b>: can't believe this, Jinja2 is vulnerable</p>
+<b>Challenge URL: https://github.com/veer1024/CTFs/tree/main/MyCTFs/Web/temper%20the%20flask</b><br>
