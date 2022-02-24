@@ -4,7 +4,7 @@
 
 ![](image.png)
 
-<p><b>Description</b>: can't beleive this, jinja2 can be vulnerable... </p>
+<p><b>Description</b>: can't believe this, jinja2 can be vulnerable... </p>
 <b> Task </b>:Get the remote code execution on machine, and extract the content of flag.txt, file present in the web directory<br>
 Reference : https://portswigger.net/research/server-side-template-injection
 <b> Walkthrough </b>: Coming Soon <br> 
