@@ -1,6 +1,9 @@
 <h1><centre>CTFs</centre></h1>
 
 <h2> CTF - temper the flask </h2>
+
+![](image.png)
+
 <p><b>Description</b>: can't beleive this, jinja2 can be vulnerable... </p>
 <b> Task </b>:Get the remote code execution on machine, and extract the content of flag.txt, file present in the web directory<br>
 <b> Walkthrough </b>: Coming Soon <br> 
@@ -23,3 +26,9 @@ follow the documentation: https://docs.docker.com/desktop/windows/install/
 confirm that image is successfully pulled, with the following command
 
 > docker images
+
+You can see the image hackpeas/hackpeas-ssti-lab1
+
+3 Running the image
+
+> docker run hackpeas/hackpeas-ssti-lab1
