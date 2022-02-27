@@ -3,7 +3,7 @@
 <h2> CTF - myBlogs </h2>
 
 <p><b>Description</b>: Simple Blog page, to render files on the web page... </p>
-<b> Task </b>:flag.txt file is stored with other blog files, hope you can see it content...<br>
+<b> Task </b>:flag.txt file is stored along with other blog files, hope you can see it content...<br>
 Reference : https://portswigger.net/research/server-side-template-injection
 <b> Walkthrough </b>: Coming Soon <br> 
 
