@@ -19,3 +19,7 @@
 <h2> CTF - temper the flask </h2>
 <p><b>Description</b>: can't believe this, Jinja2 is vulnerable</p>
 <b>Challenge URL: https://github.com/veer1024/CTFs/tree/main/MyCTFs/Web/temper%20the%20flask</b><br>
+
+<h2> CTF - myBlogs </h2>
+<p><b>Description</b>: Simple Blog page, to render files on the web page... </p>
+<b>Challange URL: https://github.com/veer1024/CTFs/tree/main/MyCTFs/Web/myBlogs</b><br>
