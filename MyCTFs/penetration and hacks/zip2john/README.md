@@ -1,6 +1,5 @@
-<h1><centre>CTFs</centre></h1>
+<h1><centre>CTF - zip2john</centre></h1>
 
-<h2> CTF - zip2john </h2>
 <p><b>Description</b>: what do you know about bruteforcing  .... </p>
 
 ![](brute%20force.jpeg)
