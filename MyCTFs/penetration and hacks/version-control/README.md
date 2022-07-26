@@ -2,7 +2,7 @@
 
 <p><b>Description</b>: Version control is one of the important aspect of DevOps .... </p>
 
-![](brute%20force.jpeg)
+![](version-control.png)
 
 <b>Challange File URL: [Version Control zip file](https://github.com/veer1024/CTFs/blob/main/MyCTFs/penetration%20and%20hacks/version-control/version-control.zip)</b><br>
 <b> Task </b>: Find the secret token...<br>
