@@ -13,7 +13,7 @@ Blog: https://secnhack.in/crack-zip-files-password-using-john-the-ripper/
 <b> Walkthrough </b>: Coming Soon <br> 
 
 <h2> CTF - Version Control </h2>
-<p><b>Description</b>: what do you know about bruteforcing  .... </p>
+<p><b>Description</b>: Version control is one of the important aspect of DevOps  .... </p>
 
 ![](brute%20force.jpeg)
 
