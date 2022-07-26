@@ -23,3 +23,7 @@
 <h2> CTF - myBlogs </h2>
 <p><b>Description</b>: Simple Blog page, to render files on the web page... </p>
 <b>Challange URL: https://github.com/veer1024/CTFs/tree/main/MyCTFs/Web/myBlogs</b><br>
+
+<h2> CTF - Version Control </h2>
+<p><b>Description</b>: Version control is one of the important aspect of DevOps  .... </p>
+<b>Challange URL: https://github.com/veer1024/CTFs/blob/main/MyCTFs/penetration%20and%20hacks/version-control</b><br>
